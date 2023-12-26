@@ -1,6 +1,4 @@
-# Highest Scoring Word Prediction
-
-This project utilizes the Hugging Face Transformers library and Gradio to predict the word with the highest score in a sentence with a placeholder. The model used is BERT (Bidirectional Encoder Representations from Transformers) with the 'bert-base-uncased' configuration.
+# Pre-Trained models for Masked word prediction and Question Answering
 
 ## Usage
 
