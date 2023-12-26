@@ -1,4 +1,4 @@
-# BERT Highest Scoring Word Prediction
+# Highest Scoring Word Prediction
 
 This project utilizes the Hugging Face Transformers library and Gradio to predict the word with the highest score in a sentence with a placeholder. The model used is BERT (Bidirectional Encoder Representations from Transformers) with the 'bert-base-uncased' configuration.
 
@@ -18,12 +18,13 @@ A Gradio interface will be launched, allowing you to input sentences with placeh
 The model will predict the word with the highest score in the given context.
 
 ## Example
-For instance, if you input the sentence "I am _ hungry," the model will predict the word that best fits in the placeholder.
+For instance, if you input the sentence "I am _ hungry," the models will predict the word that best fits in the placeholder.
 
 ## Dependencies
 1. Gradio
 2. Transformers
 
 ## Acknowledgements
-1. HuggingFaceTransformers: https://huggingface.co/bert-base-uncased
-2. Gradio: https://www.gradio.app/docs/interface
+1. https://huggingface.co/bert-base-uncased
+2. https://huggingface.co/roberta-base
+3. Gradio: https://www.gradio.app/docs/interface
