@@ -20,7 +20,7 @@
 3. **Open the provided Gradio interface:**
 A Gradio interface will be launched, allowing you to input sentences with placeholders.
 The model will perform the respective task using the model API given.
-## Example
+## Examples
 1. For masked word prediction, if you input the sentence "I am _ hungry," the models will predict the word that best fits in the placeholder.   
 2. For question answering, if you give context and question like: 
    Context:
